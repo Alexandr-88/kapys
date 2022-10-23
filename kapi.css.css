@@ -1,0 +1,85 @@
+body{
+    background:url(img/universe.webp)
+}
+.div{
+    margin: 0px 300px 0px 300px;
+    padding:100px 100px 100px 100px;
+    border: 10px solid cyan;
+    border-radius:20px;
+    box-shadow: 0px 0px 15px cyan;
+    outline: 7px solid cyan;
+    background-color:white;
+    display:inline-block;
+}
+
+.block{
+    padding: 30px 30px 30px 30px;
+    font-size:25px;
+
+}
+
+.img{
+    padding:30px 30px 30px 30px;
+    width:700px;
+    height:500px;
+    min-width:50px;
+    min-height:50px;
+}
+
+.hr{
+    border-radius: 15px;
+}
+
+.h{
+    padding: 30px 30px 30px 30px;
+    text-decoration:underline;
+    font-family:Arial, Helvetica, sans-serif;
+    color:purple;
+    text-align: center;
+}
+
+.ho{
+    padding: 30px 30px 30px 30px;
+    text-decoration:underline;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:30px;
+    color:purple;
+}
+
+#hui{
+    padding: 30px 30px 30px 30px;
+    text-decoration:underline;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:30px;
+    color:purple;
+    text-align: center;
+}
+
+#input{
+    padding-left:30px;
+    padding-right:30px;
+    padding-top:30px;
+    padding-bottom:30px;
+    width:700px;
+    height:500px;
+    min-height:50px;
+    min-width:50px;
+    border:  7px solid purple;
+    border-radius:10px;
+    
+}
+
+.button{
+    display:block;
+    margin-left:30px;
+    margin-right:30px;
+    margin-top:30px;
+    margin-bottom:30px;
+    width:100px;
+    height:40px;
+    background-color:purple;
+    color:white;
+    border: 3px solid white;
+    border-radius:15px;
+}
+
